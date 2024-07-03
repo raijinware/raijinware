@@ -1,4 +1,4 @@
-Hi! I'm Raijinware! I'm a recent graduate with my degree in Computer Science, and I really love doing game design, web development, and software engineering. The languages I'm best with are Python, C#, C++, and Java! But that's just my favorite programming languages. I also really love SQL, HTML & CSS, and JavaScript, and I've made a lot of projects with react! 
+Hi! I'm Quentin! I'm a recent graduate with my degree in Computer Science, and I really love doing game design, web development, and software engineering. The languages I'm best with are Python, C#, C++, and Java! But that's just my favorite programming languages. I also really love SQL, HTML & CSS, and JavaScript, and I've made a lot of projects with react! 
 
 ![Raijinware's GitHub stats](https://github-readme-stats.vercel.app/api?username=raijinware&hide=contribs,prs)
 
